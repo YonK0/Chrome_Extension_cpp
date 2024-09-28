@@ -1,0 +1,9 @@
+{
+    "name": "com.example.my_application",
+    "description": "Native Messaging Host Example",
+    "path": "C:\\Users\\ASUS\\Desktop\\vpn\\nativeMessagingHost.exe",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://pjlpofhjkaglhkialcmckjjeeoelmifh/"
+    ]
+}
